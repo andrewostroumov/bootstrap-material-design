@@ -31,9 +31,7 @@ application.js:
 application.css:
 
 ```css
-/*
- *= require bootstrap-material-design
- */
+@import "bootstrap-material-design"
 ```
 
 Then restart your webserver if it was previously running.
