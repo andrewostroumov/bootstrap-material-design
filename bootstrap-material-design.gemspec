@@ -1,11 +1,11 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 # Maintain your gem's version:
-require "bootstrap_material_design/version"
+require "bootstrap-material-design/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "bootstrap_material_design"
+  s.name        = "bootstrap-material-design"
   s.version     = BootstrapMaterialDesign::VERSION
   s.authors     = ["avgnasu"]
   s.email       = ["andrew.ostroumov@positrace.com"]
